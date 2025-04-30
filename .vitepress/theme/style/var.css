@@ -1,0 +1,6 @@
+/* index.css */
+@import './var.css';
+/* var.css */
+.vp-doc a {
+    text-decoration: none;
+}
